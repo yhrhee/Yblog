@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on YH</title>
-    <link>blog.yhmedia.org/categories/</link>
+    <link>https://blog.yhmedia.org/categories/</link>
     <description>Recent content in Categories on YH</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Mar 2024 22:20:11 +0900</lastBuildDate>
-    <atom:link href="blog.yhmedia.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.yhmedia.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Life</title>
-      <link>blog.yhmedia.org/categories/life/</link>
+      <link>https://blog.yhmedia.org/categories/life/</link>
       <pubDate>Fri, 29 Mar 2024 22:20:11 +0900</pubDate>
-      <guid>blog.yhmedia.org/categories/life/</guid>
+      <guid>https://blog.yhmedia.org/categories/life/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>blog.yhmedia.org/categories/tech/</link>
+      <link>https://blog.yhmedia.org/categories/tech/</link>
       <pubDate>Fri, 29 Mar 2024 22:20:11 +0900</pubDate>
-      <guid>blog.yhmedia.org/categories/tech/</guid>
+      <guid>https://blog.yhmedia.org/categories/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>信仰</title>
-      <link>blog.yhmedia.org/categories/%E4%BF%A1%E4%BB%B0/</link>
+      <link>https://blog.yhmedia.org/categories/%E4%BF%A1%E4%BB%B0/</link>
       <pubDate>Mon, 29 Jan 2024 22:20:11 +0900</pubDate>
-      <guid>blog.yhmedia.org/categories/%E4%BF%A1%E4%BB%B0/</guid>
+      <guid>https://blog.yhmedia.org/categories/%E4%BF%A1%E4%BB%B0/</guid>
       <description></description>
     </item>
     <item>
       <title>历史</title>
-      <link>blog.yhmedia.org/categories/%E5%8E%86%E5%8F%B2/</link>
+      <link>https://blog.yhmedia.org/categories/%E5%8E%86%E5%8F%B2/</link>
       <pubDate>Mon, 29 Jan 2024 22:20:11 +0900</pubDate>
-      <guid>blog.yhmedia.org/categories/%E5%8E%86%E5%8F%B2/</guid>
+      <guid>https://blog.yhmedia.org/categories/%E5%8E%86%E5%8F%B2/</guid>
       <description></description>
     </item>
   </channel>
