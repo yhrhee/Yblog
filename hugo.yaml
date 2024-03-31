@@ -1,0 +1,94 @@
+baseURL: "https://yh.xundao.org"
+languageCode: en-us
+title: YH
+theme: ["PaperMod"]
+
+
+enableInlineShortcodes: true
+enableEmoji: true 
+enableRobotsTXT: true 
+hasCJKLanguage: true
+
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+paginate: 15  
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params: 
+  defaultTheme: auto
+  
+  profileMode:
+    enabled: true
+    title: "YH" # optional default will be site title
+    subtitle: "欢迎来到本社"
+    imageUrl: "img/logo.png"
+    imageTitle: "<title of image as alt>" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Archives
+        url: "/archives"
+      - name: Posts
+        url: "/posts"
+
+  socialIcons: # optional
+    - name: Youtube
+      url: "https://www.youtube.com/@yhministries"
+    - name: "Github"
+      url: "https://www.github.com/yhrhee"
+
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowWordCounts: true
+  VisitCount: true
+
+  ShowToc: true 
+  TocOpen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "img/logo.png"
+    favicon16x16: "img/logo.png"
+    favicon32x32: "img/logo.png"
+    apple_touch_icon: "img/logo.png"
+    safari_pinned_tab: "img/logo.png"
+
+
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+
+menu:
+  main: 
+    - indentifier: posts
+      name: Posts
+      url: /posts/
+      weight: 09
+    - indentifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - indentifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - indentifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - indentifier: search
+      name: Search
+      url: /search/
+      weight: 50
