@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "blog.yhmedia.org"
 languageCode: en-us
 title: YH
 theme: ["PaperMod"]
